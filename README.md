@@ -6,4 +6,4 @@
 | Note Pad | Java |
 | Calculator V1 | Java + Python|
 | Web Browser | Java |
-| User authentificaion API | Python (FastAPI)|
+| User Manager API | Python (FastAPI) + MongoDB|
