@@ -1,8 +1,9 @@
-# Challenge of the week
+# Challenge of the week: in progress
 
 
 | Project |  Language(s)|
 |-----|-----|
-| Web Browser | Java |
-| Calculator V1 | Java + Python|
 | Note Pad | Java |
+| Calculator V1 | Java + Python|
+| Web Browser | Java |
+| User authentificaion API | Python (FastAPI)|
