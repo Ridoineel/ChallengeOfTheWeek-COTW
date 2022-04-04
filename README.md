@@ -3,4 +3,6 @@
 
 | Project |  Language(s)|
 |-----|-----|
-| User Manager API | Python (FastAPI) + MongoDB|
+| User Management API | Python (FastAPI) + MongoDB|
+| BMI Calculator | Dart (Fluter) |
+| Markdown Blog| JS (Node.js) |
