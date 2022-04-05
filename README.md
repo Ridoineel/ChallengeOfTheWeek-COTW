@@ -4,5 +4,5 @@
 | Project |  Language(s)|
 |-----|-----|
 | User Management API | Python (FastAPI) + MongoDB|
-| BMI Calculator | Dart (Fluter) |
+| BMI Calculator | Dart (Flutter) |
 | Markdown Blog| JS (Node.js) |
