@@ -3,4 +3,3 @@
 
 | Project |  Language(s)|
 |-----|-----|
-| BMI Calculator | Dart (Flutter) |
