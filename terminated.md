@@ -6,3 +6,5 @@
 | Note Pad | Java |
 | Calculator V1 | Java + Python|
 | Web Browser | Java |
+| User Management API | Python (FastAPI) + MongoDB|
+| Markdown Blog| JS (Node.js) |
