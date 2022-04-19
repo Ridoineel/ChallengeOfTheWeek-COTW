@@ -3,4 +3,3 @@
 
 | Project |  Language(s)|
 |-----|-----|
-| Interactive markdown editor | React.js (JS)|
